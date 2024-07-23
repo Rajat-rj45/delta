@@ -1,0 +1,23 @@
+.container{
+    height: 400px;
+    width: 400px;
+    align-items: center;
+    background-color: #fff;
+    border: 2px solid rgb(0, 140, 255);
+    border-radius: 5%;
+    display: flex;
+    margin: 10px auto;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: gray;
+    border: 2px solid black;
+    border-radius: 5%;
+    font-size: 50px;
+    text-align: center;
+   
+}

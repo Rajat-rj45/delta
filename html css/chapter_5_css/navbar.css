@@ -1,0 +1,20 @@
+.container{
+    height: 50px;
+    width: 900px;
+    background-color: pink;
+    border: 1px solid rgb(0, 183, 255);
+    border-radius: 10px ;
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+}
+
+.items{
+    
+    height: 50px;
+    width: 80px;
+    border-radius: 10px ;
+    margin-left: 5px ;
+    font-size: 24px;
+    line-height: 50px;
+}
